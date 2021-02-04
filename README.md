@@ -1,0 +1,1 @@
+# yourls-skip-click-count
